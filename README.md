@@ -1,2 +1,2 @@
-# PetPal_Project
+# PetPals_Project
 Coming soon
