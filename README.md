@@ -1,30 +1,30 @@
 # Table of Contents
 
-1. [Concept Description] (#markdown-Concept-Description)
-2. [Data Diagram] (#Data-Diagram)
-3. [User Stories] (#User-Stories)
-4. [Use Cases] (#Use-Cases)
-5. [Draft UI Images] (#Draft-UI-Images)
-6. [Requirements Table] (#Requirements-Table)
-7. [Test Table] (#Test-Table)
+1. [Concept Description] 
+2. [Data Diagram]
+3. [User Stories]
+4. [Use Cases] 
+5. [Draft UI Images] 
+6. [Requirements Table] 
+7. [Test Table] 
 
-## Concept Description
+# Concept Description
 Coming Soon
 
-## Data Diagram
+# Data Diagram
 Coming Soon
 
-## User Stories
+# User Stories
 Coming soon
 
-## Use Cases
+# Use Cases
 Coming Soon
 
-## Draft UI Images
+# Draft UI Images
 Coming Soon
 
-## Requirements Table
+# Requirements Table
 Coming Soon
 
-## Test Table
+# Test Table
 Coming Soon
