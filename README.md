@@ -27,18 +27,17 @@ Coming Soon
 |ReqID  |Requirement Description   | Test Method |
 |-------|:------------------------:|------------:|
 |1|User can make an account| analysis|
-|1.1|User can make a username|Demonstration|
-|1.2|User can make a password|Demonstration|
-|4|User can create their pet|analysis|
-|4.1|User can upload picture of their pet|Demonstration|
-|4.2|User can edit information of pet|Demonstration|
+|1.1|User can make a username|test|
+|1.2|User can make a password|test|
+|2|User can create their pet|analysis|
+|2.1|User can upload picture of their pet|test|
+|2.2|User can edit information of pet|test|
 
 # Test Table
 |Test ID  |ReqID   | Test Method | Current Status | TimeStamp |
 |-------|:--------:|:-----------:|:--------------:|----------:|
-|1.     |Placehol  |             | Placeholder |Placeholder|
-|2.     |Placehol               |Placeholder  |
-|3.     |Placehol              |Placeholder  |
-|4.     |Placehol              |Placeholder  |
-|5.     |Placehold              |Placeholder  |
-|6.     |Placehol              |Placeholder  |
+|1|1,1.1,1.2|From the console, choose sign in. Then create username and password. Result should say profile created|not tested| |
+|2.|2|From the console, choose Add pet. Result should be Add pet info|not tested| |
+|3.|2.1|From the console choose upload Picture of pet. Result should add picture to profile|not tested| |
+|4.|2.2|User edits information of pet such as name and date of birth.Result should save the info and update Pet Profile|not tested| |
+
