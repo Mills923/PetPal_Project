@@ -24,7 +24,14 @@ Coming Soon
 Coming Soon
 
 # Requirements Table
-Coming Soon
+|ReqID  |Requirement Description   | Test Method |
+|-------|:------------------------:|------------:|
+|1.     |Placeholder               | Placeholder |
+|2.     |Placeholder               |Placeholder  |
+|3.     |Placeholder               |Placeholder  |
+|4.     |Placeholder               |Placeholder  |
+|5.     |Placeholder               |Placeholder  |
+|6.     |Placeholder               |Placeholder  |
 
 # Test Table
 Coming Soon
