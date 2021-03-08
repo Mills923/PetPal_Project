@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. [Concept Description] (#Concept-Description)
+1. [Concept Description] (#markdown-Concept-Description)
 2. [Data Diagram] (#Data-Diagram)
 3. [User Stories] (#User-Stories)
 4. [Use Cases] (#Use-Cases)
