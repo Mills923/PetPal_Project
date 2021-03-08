@@ -1,7 +1,7 @@
 # Table of Contents
 
 1. [Concept Description](https://github.com/Mills923/PetPal_Project/blob/main/README.md#concept-description)
-2. [Data Diagram]
+2. [Data Diagram](https://github.com/Mills923/PetPal_Project/blob/main/README.md#data-diagram)
 3. [User Stories]
 4. [Use Cases] 
 5. [Draft UI Images] 
