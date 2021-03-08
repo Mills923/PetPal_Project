@@ -34,4 +34,11 @@ Coming Soon
 |6.     |Placeholder               |Placeholder  |
 
 # Test Table
-Coming Soon
+|Test ID  |ReqID   | Test Method | Current Status | TimeStamp |
+|-------|:--------:|:-----------:|:--------------:|----------:|
+|1.     |Placehol  |             | Placeholder |Placeholder|
+|2.     |Placehol               |Placeholder  |
+|3.     |Placehol              |Placeholder  |
+|4.     |Placehol              |Placeholder  |
+|5.     |Placehold              |Placeholder  |
+|6.     |Placehol              |Placeholder  |
