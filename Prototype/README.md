@@ -6,6 +6,10 @@ The log in page will perform basic functions. Allowing a user to sign in to thei
 
 ![LogIn-Page-Prototype](https://user-images.githubusercontent.com/77302336/111024518-0bb8f000-8394-11eb-903f-3d278540041c.JPG)
 
+After revision this is my new log in page prototype built into a MVC format.
+![loginpageprototype](https://user-images.githubusercontent.com/77302336/111332540-1fcc4e00-862f-11eb-8fdc-c22c11f5a2ac.JPG)
+
+
 ## Home Page
 Once logged in. The user will be able to navigate throughout the website. Most importantly go to their profile where they will be able to manage their family.
 
