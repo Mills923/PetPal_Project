@@ -11,7 +11,7 @@
 7. [Test Table](https://github.com/Mills923/PetPal_Project/blob/main/README.md#test-table) 
 
 ## Concept Description
-Coming Soon
+Have you ever went to search for information on your new beloved puppy, only to not know where to even start? Welcome to PetPal! The idea of this application is to bring all of the resources you could need for your pet, into one user friendly place. Included in this application will be common medical problems to be on the lookout for, notifications to keep you on top of preventative care, as well as knowing what dog foods / ingredients to disregard when shopping for your specific pet! Phase 1 will be focusing on integrating a select few breeds of dogs as well as the information pertaining to each breed. Once Phase 1 is completed successfully, Phase 2 will start. Which will to incorporate the remaining dog breeds and building a larger database of data. When dogs are fully integrated within the appication, I will then focus on integrating other types of pets. PetPal will be your one application to utilize, maximizing and allowing your pet to live life to the fullest!
 
 ## Data Diagram
 Coming Soon
