@@ -10,22 +10,22 @@
 6. [Requirements Table](https://github.com/Mills923/PetPal_Project/blob/main/README.md#requirements-table) 
 7. [Test Table](https://github.com/Mills923/PetPal_Project/blob/main/README.md#test-table) 
 
-# Concept Description
+## Concept Description
 Coming Soon
 
-# Data Diagram
+## Data Diagram
 Coming Soon
 
-# User Stories
+## User Stories
 Coming soon
 
-# Use Cases
+## Use Cases
 Coming Soon
 
-# Draft UI Images
+## Draft UI Images
 Coming Soon
 
-# Requirements Table
+## Requirements Table
 |ReqID  |Requirement Description   | Test Method |
 |-------|:------------------------:|------------:|
 |1|User can make an account| analysis|
@@ -35,7 +35,7 @@ Coming Soon
 |2.1|User can upload picture of their pet|test|
 |2.2|User can edit information of pet|test|
 
-# Test Table
+## Test Table
 |Test ID  |ReqID   | Test Method | Current Status | TimeStamp |
 |-------|:--------:|:-----------:|:--------------:|----------:|
 |1|1,1.1,1.2|From the console, choose sign in. Then create username and password. Result should say profile created|not tested| |
