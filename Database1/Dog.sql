@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[Dog]
+(
+	[ID] INT  IDENTITY (1,1) NOT NULL,
+	[Breed] NVARCHAR(100) NULL,
+	[HealthConcerns] NVARCHAR(MAX) NULL,
+	[HypoAllergenic] NVARCHAR(10) NULL,
+	PRIMARY KEY CLUSTERED ([ID] ASC)
+)
