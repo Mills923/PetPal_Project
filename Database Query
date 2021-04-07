@@ -1,0 +1,14 @@
+DROP TABLE UserAccount
+
+CREATE TABLE UserAccount (
+ID INT IDENTITY(1,1),
+FName NVARCHAR(50),
+LName NVARCHAR(50),
+PhoneNumber NVARCHAR(15),
+EmailAddress NVARCHAR(50))
+
+INSERT INTO UserAccount (FName, LName, PhoneNumber, EmailAddress)
+VALUES ('John','Doe','123-456-7889','madeupemail@gmail.com')
+
+SELECT *
+FROM UserAccount
